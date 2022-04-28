@@ -1,1 +1,1 @@
-# Blog-It.
+# blog
